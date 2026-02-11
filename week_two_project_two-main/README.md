@@ -1,6 +1,6 @@
 # Web Development Project 3 - Flash card part two
 
-Submitted by: Sudarshan Tiwari
+Submitted by:
 
 This web app: Flash card with feedbacl
 
